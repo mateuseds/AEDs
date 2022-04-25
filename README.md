@@ -1,2 +1,2 @@
 # AEDs
-Algoritmos e Estruturas de Dados
+Exercicios da disciplina de Algoritmos e Estruturas de Dados
